@@ -1,6 +1,14 @@
 {
-  "allowedDevices": [
-    "LRGVXKITJL",
-    "QCAGHVLWJW"
+  "devices": [
+    {
+      "id": "LRGVXKITJL",
+      "role": "owner",
+      "discord": "123456789012345678"
+    },
+    {
+      "id": "QCAGHVLWJW",
+      "role": "user",
+      "discord": "987654321098765432"
+    }
   ]
 }
