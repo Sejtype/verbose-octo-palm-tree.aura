@@ -1,0 +1,37 @@
+{
+  "devices": [
+    {
+      "id": "LRGVXKITJL",
+      "role": "user",
+      "discord": "772930007864442910"
+    },
+    {
+      "id": "QCAGHVLWJW",
+      "role": "owner",
+      "discord": "772930007864442910"
+    }
+  ],
+
+  "settings": {
+    "reactionCooldown": 30000,
+    "statsInterval": 43200000
+  },
+
+  "messages": {
+    "available": [
+      "is free... suspiciously free 🤨",
+      "is open for chaos",
+      "is free and already bored"
+    ],
+    "busy": [
+      "is busy as always...",
+      "is pretending to work",
+      "entered grind mode"
+    ],
+    "lockedIn": [
+      "is LOCKED IN 🔴",
+      "is unreachable",
+      "activated beast mode"
+    ]
+  }
+}
