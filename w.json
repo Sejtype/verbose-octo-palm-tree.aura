@@ -2,12 +2,12 @@
   "devices": [
     {
       "id": "LRGVXKITJL",
-      "role": "owner",
+      "role": "user",
       "discord": "772930007864442910"
     },
     {
       "id": "QCAGHVLWJW",
-      "role": "user",
+      "role": "owner",
       "discord": "987654321098765432"
     }
   ]
